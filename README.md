@@ -35,3 +35,5 @@ promises- object used to handle all the async data operations, while developing 
 
 
 expressAsyncHandler - can be used instead of try catch handler in async calls -  npm i express-async-handler
+mongoose - install for connection with mongoose - npm i mongoose
+
